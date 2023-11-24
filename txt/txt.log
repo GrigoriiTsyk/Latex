@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.22)  23 NOV 2023 21:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.22)  24 NOV 2023 15:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -851,30 +851,43 @@ File: l3backend-pdftex.def 2023-11-09 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count330
 \l__pdf_internal_box=\box108
 )
-(./txt.aux)
+(./txt.aux
+
+LaTeX Warning: Label `fig:mpr' multiply defined.
+
+
+LaTeX Warning: Label `ris:image' multiply defined.
+
+
+LaTeX Warning: Label `fig:mpr' multiply defined.
+
+
+LaTeX Warning: Label `ris:image' multiply defined.
+
+)
 \openout1 = `txt.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Info: Redefining \th on input line 28.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Info: Redefining \th on input line 30.
  (c:/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count331
@@ -890,4 +903,189 @@ LaTeX Info: Redefining \th on input line 28.
 \everyMPtoPDFconversion=\toks48
 ) (c:/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-Package epstopdf-base Info: Redefining graphics rule 
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(c:/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package hyperref Info: Link coloring OFF on input line 30.
+ (./txt.out) (./txt.out)
+\@outlinefile=\write3
+\openout3 = `txt.out'.
+
+\c@lstlisting=\count337
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(92.14519pt, 430.00462pt, 92.14519pt)
+* v-part:(T,H,B)=(95.39737pt, 556.47656pt, 143.09605pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=430.00462pt
+* \textheight=556.47656pt
+* \oddsidemargin=19.8752pt
+* \evensidemargin=19.8752pt
+* \topmargin=-13.87262pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 34.
+
+(c:/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 34.
+
+
+(c:/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+<../img/img210.png, id=4, 147.9126pt x 132.0132pt>
+File: ../img/img210.png Graphic file (type png)
+<use ../img/img210.png>
+Package pdftex.def Info: ../img/img210.png  used on input line 66.
+(pdftex.def)             Requested size: 215.0023pt x 191.89766pt.
+ [1
+
+{c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2023/
+texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc} <../img/img210.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 156--158
+
+ []
+
+[2]
+<../img/img211.png, id=30, 120.45pt x 110.814pt>
+File: ../img/img211.png Graphic file (type png)
+<use ../img/img211.png>
+Package pdftex.def Info: ../img/img211.png  used on input line 184.
+(pdftex.def)             Requested size: 129.00269pt x 118.6932pt.
+<../img/img212__1.png, id=31, 100.6962pt x 141.6492pt>
+File: ../img/img212__1.png Graphic file (type png)
+<use ../img/img212__1.png>
+Package pdftex.def Info: ../img/img212__1.png  used on input line 214.
+(pdftex.def)             Requested size: 129.00269pt x 181.48108pt.
+<../img/img212__2.png, id=32, 203.8014pt x 142.6128pt>
+File: ../img/img212__2.png Graphic file (type png)
+<use ../img/img212__2.png>
+Package pdftex.def Info: ../img/img212__2.png  used on input line 215.
+(pdftex.def)             Requested size: 258.00539pt x 180.55913pt.
+ [3
+pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) ha
+s been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.244 $$
+         <../img/img211.png> <../img/img212__1.png> <../img/img212__2.png>]
+<../img/img213__1.png, id=40, 89.6148pt x 111.2958pt>
+File: ../img/img213__1.png Graphic file (type png)
+<use ../img/img213__1.png>
+Package pdftex.def Info: ../img/img213__1.png  used on input line 258.
+(pdftex.def)             Requested size: 129.00269pt x 160.22165pt.
+<../img/img213__2.png, id=41, 208.1376pt x 131.0496pt>
+File: ../img/img213__2.png Graphic file (type png)
+<use ../img/img213__2.png>
+Package pdftex.def Info: ../img/img213__2.png  used on input line 259.
+(pdftex.def)             Requested size: 258.00539pt x 162.45581pt.
+<../img/img214.png, id=42, 137.7948pt x 112.2594pt>
+File: ../img/img214.png Graphic file (type png)
+<use ../img/img214.png>
+Package pdftex.def Info: ../img/img214.png  used on input line 296.
+(pdftex.def)             Requested size: 215.0023pt x 175.17532pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 288--302
+\T2A/cmr/m/n/10 III и неустой-чи-вый в об-ла-сти II, ес-ли $\OML/cmm/m/it/10 [
+] > \OT1/cmr/m/n/10 1$\T2A/cmr/m/n/10 . В слу-чае
+ []
+
+[4 <../img/img213__1.png> <../img/img213__2.png>]
+Underfull \hbox (badness 2096) in paragraph at lines 302--318
+[]\T2A/cmr/m/n/10 трех со-сто-я-ний рав-но-ве-сия име-ем все-гда
+ []
+
+[5 <../img/img214.png>] [6] [7]
+
+LaTeX Warning: Command \cyru invalid in math mode on input line 521.
+
+Missing character: There is no у in font cmr10!
+[8]
+<../img/img215.png, id=76, 277.5168pt x 368.577pt>
+File: ../img/img215.png Graphic file (type png)
+<use ../img/img215.png>
+Package pdftex.def Info: ../img/img215.png  used on input line 607.
+(pdftex.def)             Requested size: 258.00539pt x 342.68306pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) ha
+s been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.612 \caption
+              {}
+pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) ha
+s been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.612 \caption{}
+                
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[9] [10 <../img/img215.png>] (./txt.aux)
+ ***********
+LaTeX2e <2023-11-01>
+L3 programming layer <2023-11-09>
+ ***********
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package rerunfilecheck Info: File `txt.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+ ) 
+Here is how much of TeX's memory you used:
+ 16868 strings out of 474266
+ 255113 string characters out of 5751443
+ 1941558 words of memory out of 5000000
+ 38776 multiletter control sequences out of 15000+600000
+ 562569 words of font info for 48 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 75i,9n,79p,540b,519s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/tex
+live/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2023
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2023/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2023/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmr5.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmr7.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmsy10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pf
+b><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb><c
+:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb><c:/texlive/
+2023/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><c:/texlive/2023/texmf
+-dist/fonts/type1/public/cm-super/sfti1000.pfb>
+Output written on txt.pdf (10 pages, 232135 bytes).
+PDF statistics:
+ 144 PDF objects out of 1000 (max. 8388607)
+ 99 compressed objects within 1 object stream
+ 30 named destinations out of 1000 (max. 500000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+
